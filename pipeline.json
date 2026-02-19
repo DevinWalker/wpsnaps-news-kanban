@@ -1,0 +1,36 @@
+{
+  "github": {
+    "repo": "DevinWalker/wpsnaps-news-kanban",
+    "projectV2": {
+      "owner": "DevinWalker",
+      "number": 3,
+      "id": "PVT_kwHOABf7M84BPlnl",
+      "url": "https://github.com/users/DevinWalker/projects/3",
+      "statusFieldId": "PVTSSF_lAHOABf7M84BPlnlzg99CQc",
+      "statusOptions": {
+        "Inbox": "5f1b73a2",
+        "Draft Ready": "e1aec6e8",
+        "Approved": "dcd59503",
+        "Published": "a4956779"
+      }
+    }
+  },
+  "wpsnaps": {
+    "site": "wpsnaps.com",
+    "defaultStatus": "draft"
+  },
+  "sources": {
+    "official": [
+      "https://wordpress.org/news/feed/",
+      "https://make.wordpress.org/core/feed/",
+      "https://make.wordpress.org/plugins/feed/",
+      "https://make.wordpress.org/themes/feed/",
+      "https://make.wordpress.org/performance/feed/",
+      "https://make.wordpress.org/security/feed/",
+      "https://make.wordpress.org/ai/feed/"
+    ],
+    "community": [
+      "https://wptavern.com/feed/"
+    ]
+  }
+}
